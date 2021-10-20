@@ -1,0 +1,12 @@
+.form{
+display: grid;
+}
+
+.form-controller{
+    text-align: center;
+}
+
+.form-button{
+    text-align: center;
+    margin-top: 50px;
+}
